@@ -12,6 +12,7 @@ To run this program follow these steps:
 Note that for first use:
 
 UserID: admin
+
 Password: admin
 
 These can be deleted later on manually from LibraryDB.db
