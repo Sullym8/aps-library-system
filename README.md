@@ -1,5 +1,5 @@
 # aps-library-system
-Library Management System created for Aravali Public School as part of IB HL CS Internal Assessment
+Library Management System created for Aravali Public School as part of the IB HL CS Internal Assessment
 
 # Library Management System for APS
 
