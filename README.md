@@ -20,13 +20,9 @@ These can be deleted later on manually from LibraryDB.db
 IF Documents/LMS does not exist, create the following directory structure:
 
 Documents/
-
 └── LMS/
-
     ├── BookImg/
-    
     ├── ClientImg/
-    
     └── LibraryDB.db
     
 
